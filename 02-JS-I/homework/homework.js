@@ -248,10 +248,10 @@ function esVocal(letra){
   }
   return 'Dato incorrecto';
 }
-Las || significan o
 
 
-// No modificar nada debajo de esta línea
+
+// No modificar nada debajo de esta líneaaa
 // --------------------------------
 
 module.exports = {
